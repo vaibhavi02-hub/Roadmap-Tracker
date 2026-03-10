@@ -1,17 +1,23 @@
+<script>
+</script>
+
 <div class="topbar">
-  <input placeholder="Type your career goal..." />
+  <h2>🚀 Roadmap Tracker Dashboard</h2>
 </div>
 
 <style>
-  .topbar {
-    padding: 15px;
-    background: white;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  }
-   input {
-    width: 100%;
-    padding: 10px;
-    border-radius: 8px;
-    border: 1px solid #ddd;
-  }
+
+.topbar{
+  width:100%;
+  background:#2563EB;
+  color:white;
+  padding:15px 20px;
+  margin-bottom:20px;
+  border-radius:8px;
+}
+
+h2{
+  margin:0;
+}
+
 </style>
